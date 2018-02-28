@@ -11,7 +11,7 @@ use_prose_io: true
 google_cse_token: 
 custom_head: false
 custom_sidebar: true
-comments: true
+comments: false
 custom_footer: false
 gems:
   - jekyll-sitemap
