@@ -1,6 +1,6 @@
 ---
 layout: default
-comments: false
+comments: true
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
