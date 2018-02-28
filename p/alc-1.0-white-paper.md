@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<h2>ALC Specification 1.0</h2>
+<h1>ALC Specification 1.0</h1>
 <b>ALC</b> programming language is a superset of ECMAScript in <a href="http://www.ecma-international.org/ecma-262/5.1/">ECMA-262, edition 5</a>. This supports following additional functions that are similar to <a href="http://en.wikipedia.org/wiki/Logo_(programming_language)">Logo programming language</a>.
 <br>
 <br>
 
-<h3>Syntax Summary</h3>
+<h2>Syntax Summary</h2>
 <table border=1 width="100%">
 <tr align=center>
   <td>Class</td><td>Logo Equivalent<br>(Berkeley Logo)</td>
