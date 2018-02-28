@@ -1,8 +1,8 @@
-title: git-wiki
-description: git-wiki is a jekyll theme originally based on jekyll-theme-minimal
-show_downloads: true
+title: COC wiki
+description: COC wiki and tutorials
+show_downloads: false
 git_branch: master
-logo_url:
+logo_url: https://www.codeofcubes.com/onepage/img/coc-logo.png
 google_analytics:
 theme: 
 wiki_folder: wiki
