@@ -5,7 +5,7 @@ git_branch: master
 logo_url: https://www.codeofcubes.com/onepage/img/coc-logo.png
 google_analytics:
 theme: 
-wiki_folder: wiki
+wiki_folder: p
 use_github_wiki: false
 use_prose_io: true
 google_cse_token: 
