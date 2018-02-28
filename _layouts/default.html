@@ -49,7 +49,7 @@
       <div id="tools-buttons" style="width: 100%; text-align: right">
         {{page.relative_path}}
         {% if site.use_github_wiki %}
-          <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/{{{page.folder}}{{url | remove: '.html' | append: ''}}/_edit">Edit</a></span>
+          <a target="_blank" href="{{ site.github.repository_url }}/{{{page.folder}}{{url | remove: '.html' | append: ''}}/_edit">Edit</a></span>
           <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/{{{page.folder}}{{url | remove: '.html' | append: ''}}/_history">History</a></span>
           <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/{{{page.folder}}{{url | remove: '.html' | append: '.md'}}/">Source</a></span>
         {% else %}
