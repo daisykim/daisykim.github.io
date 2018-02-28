@@ -5,12 +5,12 @@ git_branch: master
 logo_url: https://www.codeofcubes.com/onepage/img/coc-logo.png
 google_analytics:
 theme: 
-wiki_folder: p
+wiki_folder: 
 use_github_wiki: false
 use_prose_io: true
 google_cse_token: 
 custom_head: false
-custom_sidebar: false
+custom_sidebar: true
 custom_footer: false
 gems:
   - jekyll-sitemap

@@ -32,10 +32,6 @@
         </a>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
         {% if site.show_downloads %}
           <ul class="downloads">
             <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
@@ -62,7 +58,6 @@
           <span class="tools-element"><a target="_blank" href="http://prose.io/#{{site.github.repository_nwo}}/edit/{{site.git_branch}}{{{page.folder}}{{url | remove: '.html' | append: '.md'}}">Edit with Prose.io</a></span>
           {% endif %}
           <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/commits/{{site.git_branch}}{{{page.folder}}{{url | remove: '.html' | append: '.md'}}">History</a></span>
-          <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/blob/{{site.git_branch}}{{{page.folder}}{{url | remove: '.html' | append: '.md'}}">Source</a></span>
         {% endif %}
         
         {% if site.google_cse_token %}
