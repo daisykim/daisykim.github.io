@@ -1,3 +1,2 @@
-# daisykim.github.io
-COC wiki
-Visit http://wiki.codeofcubes.com/
+# COC wiki
+http://wiki.codeofcubes.com/
