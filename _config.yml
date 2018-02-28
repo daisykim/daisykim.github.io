@@ -9,6 +9,7 @@ wiki_folder: p
 use_github_wiki: false
 use_prose_io: true
 google_cse_token: 
+comments: true
 custom_head: false
 custom_sidebar: true
 custom_footer: false
