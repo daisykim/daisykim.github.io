@@ -8,7 +8,7 @@ _ALC_ is a brand-new programming language which is a superset of ECMAScript in [
 
 ## [](#header-2)Syntax Summary
 
-| Class   | Logo Equivalent  | ALC              | Description                      |
+| Class | Logo | ALC | Description |
 |:---|:---|:---|:---|
 | basic      | to/end (function)    | function() { }       | function definition ex) function foo() { fd(5); }|
 | repeat     | {num}[]              | for(init;cond;post) {}| iteration|
