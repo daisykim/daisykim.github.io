@@ -4,7 +4,7 @@ layout: default
 
 # [](#header-1)ALC White Paper
 
-_ALC_ programming language is a superset of ECMAScript in [ECMA-262, edition 5](http://www.ecma-international.org/ecma-262/5.1/). This supports following additional functions that are similar to [Logo programming language](http://en.wikipedia.org/wiki/Logo_(programming_language)). Lastest ALC edition is v1.0.
+_ALC_ is a brand-new programming language which is a superset of ECMAScript in [ECMA-262, edition 5](http://www.ecma-international.org/ecma-262/5.1/). This supports following additional syntax that is similar to [Logo programming language](http://en.wikipedia.org/wiki/Logo_(programming_language)). Lastest ALC edition is v1.0.
 
 ## [](#header-2)Syntax Summary
 
@@ -62,4 +62,15 @@ for (var i = 18; i >= 0; i-=2) {
 
   up(1);fd(1);rt(90);fd(1);lt(90);pd();
 }
+
+// Simple circle
+var circle = function() {
+    for (var i = 0; i < 90; ++i) {
+          fd(1);
+          rt(4);
+    }
+}
+
+sp(4); rot(0);
+circle();
 ```
