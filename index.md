@@ -12,4 +12,4 @@ comments: true
 
 ---
 
-Try now! (http://www.codeofcubes.com)
+Try now! [http://www.codeofcubes.com](http://www.codeofcubes.com)
