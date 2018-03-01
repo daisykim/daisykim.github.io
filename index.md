@@ -10,6 +10,6 @@ comments: true
 # [](#header-1)Next Step
 
 
-```
-[Try now!](http://www.codeofcubes.com)
-```
+---
+:+1 [Try now!](http://www.codeofcubes.com)
+---
