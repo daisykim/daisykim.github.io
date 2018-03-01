@@ -44,6 +44,7 @@ _ALC_ is a brand-new programming language which is a superset of ECMAScript in [
 |predicates  | <, >, <=, >=, ==     | <, >, <=, >=, ==     |   less than, greater than, less than equal, greater than equal, equal|
 |bitwise operations| BITAND, BITOR, BITNOT, ASHIFT, LSHIFT|  &, \|, !, », « |   |
 |logical operations| AND, OR, NOT   | &&, \|\|, !=         |   |
+{:.mbtablestyle}
 
 ## [](#header-2)Examples
 
