@@ -11,5 +11,5 @@ comments: true
 
 
 ---
-:+1 [Try now!](http://www.codeofcubes.com)
----
+
+Try now! http://www.codeofcubes.com
