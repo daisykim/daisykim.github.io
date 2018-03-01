@@ -231,3 +231,22 @@ ALC programming language is a superset of ECMAScript in [ECMA-262, edition 5](ht
 </tr>
 </tbody>
 </table>
+
+## [](#header-2)Examples
+
+```js
+// Pyramid
+function sq(len) {
+  for (var i = 0; i < 4; ++i) {
+    fd(len-1); rt(90);
+  }
+}
+
+sp(21); rot(0);
+
+for (var i = 18; i >= 0; i-=2) {
+ pd(); sq(i); pu();
+
+  up(1);fd(1);rt(90);fd(1);lt(90);pd();
+}
+```
