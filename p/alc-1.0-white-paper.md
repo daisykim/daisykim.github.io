@@ -3,7 +3,7 @@ layout: default
 ---
 
 # [](#header-1)ALC Specification 1.0
-ALC programming language is a superset of ECMAScript in <a href="http://www.ecma-international.org/ecma-262/5.1/">ECMA-262, edition 5</a>. This supports following additional functions that are similar to <a href="http://en.wikipedia.org/wiki/Logo_(programming_language)">Logo programming language</a>.
+ALC programming language is a superset of ECMAScript in [ECMA-262, edition 5](http://www.ecma-international.org/ecma-262/5.1/). This supports following additional functions that are similar to [Logo programming language](http://en.wikipedia.org/wiki/Logo_(programming_language))
 
 ## [](#header-2)Syntax Summary
 
@@ -17,7 +17,7 @@ ALC programming language is a superset of ECMAScript in <a href="http://www.ecma
 <thread>
 <tr class="header">
   <th>Class</th>
-  <th>Logo Equivalent (Berkeley Logo)</th>
+  <th>Logo Equivalent<br>(Berkeley Logo)</th>
   <th>ALC</th>
   <th>Description</th>
 </tr>
