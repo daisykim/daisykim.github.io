@@ -11,7 +11,7 @@ ALC programming language is a superset of ECMAScript in [ECMA-262, edition 5](ht
 ## [](#header-2)Syntax Summary
 
 | Class      | Logo Equivalent        | ALC                    | Description                                      |
-|:----------:|:----------------------:|:----------------------:|:-------------------------------------------------|
+|:-----------|:-----------------------|:-----------------------|:-------------------------------------------------|
 | basic      | to/end (function)      | function() { }         | function definition ex) function foo() { fd(5); }|
 | repeat     | {num}[]                | for(init;cond;post) {} | iteration|
 |            | make “x sum :y 3       | var x = y + 3;         | variable definition and addtion|
