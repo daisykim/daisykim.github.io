@@ -3,12 +3,11 @@ layout: default
 comments: true
 ---
 
-.. overview
+(overview)
 
-# Get Started
+# [](#header-1)Get Started
 
-# What's Next?
-
+# [](#header-1)What's Next?
 
 ---
 
