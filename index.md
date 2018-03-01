@@ -3,9 +3,9 @@ layout: default
 comments: true
 ---
 
-(overview)
-
 # [](#header-1)Get Started
+
+overview and step-by-step tutorial.
 
 # [](#header-1)What's Next?
 
