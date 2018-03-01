@@ -63,7 +63,9 @@ for (var i = 18; i >= 0; i-=2) {
 
   up(1);fd(1);rt(90);fd(1);lt(90);pd();
 }
+```
 
+```js
 // Simple circle
 var circle = function() {
     for (var i = 0; i < 90; ++i) {
