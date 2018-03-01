@@ -81,7 +81,7 @@ circle();
 ## [](#header-2)Execution Model
 
 Applications written in _ALC_ run on a web browser or node.js.
-Since there is a single thread of execution is supported, _ALC_ code continues executing until it exits.  _ALC_ code can't be interruted by other _ALC_ code.
+Since there is a single thread of execution, _ALC_ code continues executing until it exits.  _ALC_ code can't be interruted by other _ALC_ code.
 
 ## [](#header-2)Libraries
 
@@ -89,6 +89,7 @@ Followings are built-in libraries:
 
 * Event loop and handler callback
 * 3D graphics
+* Networking
 * Voxel handling
 * User controls and related GUI
 * DOM and CSS handling
@@ -97,5 +98,6 @@ Followings are built-in libraries:
 * Cloud based data saving and loading
 * Monetization
 * Test automation
+
 
 For further details, please refer to wiki sidemenu.
