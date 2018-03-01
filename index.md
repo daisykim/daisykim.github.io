@@ -5,7 +5,7 @@ comments: true
 
 # [](#header-1)Overview
 
-# [](#header-1)Practice
+# [](#header-1)Get Started
 
 # [](#header-1)Next Step
 
