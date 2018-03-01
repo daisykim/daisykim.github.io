@@ -12,4 +12,4 @@ comments: true
 
 ---
 
-<button name="button" onclick="http://www.codeofcubes.com">Try now!</button>
+Try now! [http://www.codeofcubes.com](http://www.codeofcubes.com)
