@@ -4,7 +4,8 @@ layout: default
 
 # [](#header-1)ALC White Paper
 
-Document version: v0.1
+ALC version     : v0.9
+Document version: v0.9
 
 ALC programming language is a superset of ECMAScript in [ECMA-262, edition 5](http://www.ecma-international.org/ecma-262/5.1/). This supports following additional functions that are similar to [Logo programming language](http://en.wikipedia.org/wiki/Logo_(programming_language))
 
