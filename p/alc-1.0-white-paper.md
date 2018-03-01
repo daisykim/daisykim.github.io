@@ -89,6 +89,12 @@ Followings are built-in libraries:
 * Event loop and handler callback
 * THREE.js
 * Voxel handling
-* User controlls and related UI
+* User controls and related GUI
 * DOM and CSS handling
+* Package and plugin management
 * Debugging and logging
+* Cloud based data saving and loading
+* Monetization
+* Test automation
+
+For further details, please refer to wiki sidemenu.
