@@ -75,3 +75,18 @@ var circle = function() {
 sp(4); rot(0);
 circle();
 ```
+## [](#header-2)Execution Model
+
+Applications written in _ALC_ run on a web browser or node.js.
+Since there is a single thread of execution is supported, _ALC_ code continues executing until it exits.  _ALC_ code can't be interruted by other _ALC_ code.
+
+## [](#header-2)Libraries
+
+Followings are built-in libraries:
+
+* Event loop and handler callback
+* THREE.js
+* Voxel handling
+* User controlls and related UI
+* DOM and CSS handling
+* Debugging and logging
