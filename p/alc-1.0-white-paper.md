@@ -88,7 +88,7 @@ Since there is a single thread of execution is supported, _ALC_ code continues e
 Followings are built-in libraries:
 
 * Event loop and handler callback
-* THREE.js
+* 3D graphics
 * Voxel handling
 * User controls and related GUI
 * DOM and CSS handling
