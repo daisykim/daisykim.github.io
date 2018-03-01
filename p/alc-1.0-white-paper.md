@@ -81,7 +81,7 @@ circle();
 ## [](#header-2)Execution Model
 
 Applications written in _ALC_ run on a web browser or node.js.
-Since there is a single thread of execution, _ALC_ function continues executing until it exits.  _ALC_ functions can't be interruted by other _ALC_ code.
+Since there is a single thread of execution, an _ALC_ function continues executing until it exits.  _ALC_ functions can't be interruted by other _ALC_ code.
 
 ## [](#header-2)Libraries
 
