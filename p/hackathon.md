@@ -1,6 +1,6 @@
 ---
-layout: default
 title: COC Hackathon
+layout: default
 ---
 
 TBA.

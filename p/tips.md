@@ -1,6 +1,6 @@
 ---
-layout: default
 title: COC Tips
+layout: default
 ---
 
 TBA.

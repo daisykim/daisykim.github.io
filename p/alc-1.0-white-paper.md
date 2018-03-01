@@ -1,6 +1,6 @@
 ---
-layout: default
 title: ALC White Paper
+layout: default
 ---
 
 # [](#header-1)ALC White Paper
