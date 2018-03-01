@@ -21,7 +21,7 @@ ALC programming language is a superset of ECMAScript in <a href="http://www.ecma
   <th>ALC</th>
   <th>Description</th>
 </tr>
-</tread>
+</thread>
 <tbody>
 <tr>
   <td markdown="span">basic</td>
