@@ -52,12 +52,12 @@ end
 
 ###### [](#header-6)Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| head1        | head two          | three | four      | five      |
+|:-------------|:------------------|:------|:----------|:----------|
+| ok           | good swedish fish | nice  | nice      | nice      |
+| out of stock | good and plenty   | nice  | nice      | nice      |
+| ok           | good `oreos`      | hmm   | hmm       | hmm       |
+| ok           | good `zoute` drop | yumm  | yumm     .| yumm     .|
 
 ### There's a horizontal rule below this.
 
