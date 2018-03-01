@@ -3,7 +3,7 @@ description: Official wiki and tutorials
 show_downloads: false
 git_branch: master
 logo_url: http://wiki.codeofcubes.com/img/coc-logo.png
-google_analytics:
+google_analytics: UA-38748445-2
 theme: 
 wiki_folder: p
 use_github_wiki: false
