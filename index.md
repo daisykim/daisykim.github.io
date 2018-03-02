@@ -5,7 +5,7 @@ layout: default
 
 # [](#header-1)Get Started
 
-# [](#header-1)What's Next?
+# [](#header-1)Next
 
 ---
 
