@@ -27,10 +27,10 @@ Let's start a simple tutorial:
 ```javascript
 // 3D donut
 
-fd(4) rt(90)
-fd(4) rt(90)
-fd(4) rt(90)
-fd(4) rt(90)
+fd(4); rt(90)
+fd(4); rt(90)
+fd(4); rt(90)
+fd(4); rt(90)
 ```
 
 * Step 2: Run your code
