@@ -22,7 +22,7 @@ Let's start a simple tutorial:
 
 * Step 1: Launch coding app and type sample code
 
-> To open code editor window, click the screen and press 'C' key.
+> To open code editor, click the editor button on the bottom right.
 
 ```javascript
 // 3D donut
@@ -35,11 +35,11 @@ fd(4); rt(90)
 
 * Step 2: Run your code
 
-> Click the screen and press 'R' key.
+> Click the run button on the bottom right.
 
 * Step 3: Share the code
 
-> Click the save button in the editor window. 
+> Click the save button on the editor window. 
 
 ![Donut demo]({{ site.baseurl }}/img/coc-donut.jpg "3D Donut")
 
