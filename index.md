@@ -14,7 +14,11 @@ Let's start a simple tutorial:
 
 # Get Started
 
-* Type a sample code
+* Type following code in editor window.
+
+> To open editor window, click the screen and press 'C' key.
+> 
+> Or, open command box and type '/code'.
 
 ```javascript
 // 3D donut
@@ -27,13 +31,13 @@ fd(4) rt(90)
 
 * Run your code
 
-> Click the sceen and press 'R' key.
+> Click the screen and press 'R' key.
 > 
-> Or, open command box and type '/run'
+> Or, open command box and type '/run'.
 
 * Save the code
 
-> Click save button in the editor menu
+> Click the save button in the editor window. 
 
 ![Donut demo]({{ site.baseurl }}/img/coc-donut.jpg "3D Donut")
 
