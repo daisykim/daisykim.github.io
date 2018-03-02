@@ -24,18 +24,11 @@ fd(4) rt(90)
 ```
 
 * Run your code
-
- - Click the sceen and type 'R' key. Or
- - Open command input box and type /run
+  - Click the sceen and type 'R' key. Or
+  - Open command input box and type /run
 
 * Save the code
+  - Click save button in the editor menu
 
- - Click save button in the editor menu
+### What's Next?
 
-### Header 3
-
-#### Header 4
-
-A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
-
-An image, located within /images
