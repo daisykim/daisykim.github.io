@@ -9,29 +9,26 @@ Let's start a simple tutorial:
 
 ## Get Started##
 
-1. Type a sample code
+* Type a sample code
 
 ```javascript
-// A very simple 3D donut
+// 3D donut
 
-fd(4)
-rt(90)
+fd(4) rt(90)
 
-fd(4)
-rt(90)
+fd(4) rt(90)
 
-fd(4)
-rt(90)
+fd(4) rt(90)
 
-fd(4)
+fd(4) rt(90)
 ```
 
-2. Run your code
+* Run your code
 
  - Click the sceen and type 'R' key. Or
  - Open command input box and type /run
 
-3. Save the code
+* Save the code
 
  - Click save button in the editor menu
 
