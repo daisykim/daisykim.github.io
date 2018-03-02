@@ -46,6 +46,6 @@ fd(4) rt(90)
 
 ---
 
-Try now! https://www.codeofcubes.com
+Try now! [https://www.codeofcubes.com](https://www.codeofcubes.com)
 
 ---
