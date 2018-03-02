@@ -4,13 +4,13 @@ title: Markdown Style Guide
 ---
 
 _COC_ is a coding platform and marketplace for everyone. You can **play, create, share** your own codes.
-Simply, you can make a new app by mixing plugins. Let's start a simple tutorial:
+To make a new app, simply you can simply mix some code plugins.
 
-## Header 2 (H1 is reserved for post titles)##
+Let's start a simple tutorial:
 
-### Header 3
+## Get Started##
 
-#### Header 4
+### What's Next?
 
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
