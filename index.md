@@ -19,7 +19,7 @@ Let's start a simple tutorial:
 
 # Get Started
 
-* Launch coding app and type sample code
+* Step 1: Launch coding app and type sample code
 
 > To open code editor window, click the screen and press 'C' key.
 
@@ -32,11 +32,11 @@ fd(4) rt(90)
 fd(4) rt(90)
 ```
 
-* Run your code
+* Step 2: Run your code
 
 > Click the screen and press 'R' key.
 
-* Save the code
+* Step 3: Share the code
 
 > Click the save button in the editor window. 
 
