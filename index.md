@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Markdown Style Guide
+title: COC wiki
 ---
 
 This is a demo of all styled elements in Jekyll Now.
