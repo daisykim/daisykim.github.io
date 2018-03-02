@@ -14,9 +14,9 @@ Let's start a simple tutorial:
 
 # Get Started
 
-Connect to COC: [https://play.codeofcubes.com](https://play.codeofcubes.com)
+* Access COC: [https://play.codeofcubes.com](https://play.codeofcubes.com)
 
-1. Type sample code
+* Type sample code
 
 > To open code editor window, click the screen and press 'C' key.
 
@@ -29,11 +29,11 @@ fd(4) rt(90)
 fd(4) rt(90)
 ```
 
-2. Run your code
+* Run your code
 
 > Click the screen and press 'R' key.
 
-3. Save the code
+* Save the code
 
 > Click the save button in the editor window. 
 
