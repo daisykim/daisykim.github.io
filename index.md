@@ -39,6 +39,10 @@ fd(4) rt(90)
 
 # What's Next?
 
+You just finished making your first application!
+
+More information can be found in the following documents:
+
 * [COC Plugin](p/coc-plugin) : baseline for executing and sharing your code
 * [COC App](p/coc-app) : a collection of plugins
 * [ALC](p/alc-1.0-white-paper) : a programming language for COC
