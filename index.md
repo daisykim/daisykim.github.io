@@ -35,6 +35,8 @@ fd(4) rt(90)
 
 > Click save button in the editor menu
 
+![Donut demo]({{ site.baseurl }}/img/coc-donut.png "3D Donot")
+
 # What's Next?
 
 * [COC Plugin](p/coc-plugin) : baseline for executing and sharing your code
