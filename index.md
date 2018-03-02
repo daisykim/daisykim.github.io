@@ -17,8 +17,6 @@ Let's start a simple tutorial:
 * Type following code in editor window.
 
 > To open editor window, click the screen and press 'C' key.
-> 
-> Or, open command box and type '/code'.
 
 ```javascript
 // 3D donut
@@ -32,8 +30,6 @@ fd(4) rt(90)
 * Run your code
 
 > Click the screen and press 'R' key.
-> 
-> Or, open command box and type '/run'.
 
 * Save the code
 
