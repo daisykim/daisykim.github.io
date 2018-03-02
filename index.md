@@ -35,7 +35,7 @@ fd(4) rt(90)
 
 > Click save button in the editor menu
 
-![Donut demo]({{ site.baseurl }}/img/coc-donut.png "3D Donot")
+![Donut demo]({{ site.baseurl }}/img/coc-donut.jpg"3D Donot")
 
 # What's Next?
 
