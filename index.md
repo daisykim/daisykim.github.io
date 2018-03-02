@@ -10,7 +10,9 @@ Let's start a simple tutorial:
 
 ## Get Started##
 
-### What's Next?
+### Header 3
+
+#### Header 4
 
 A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
