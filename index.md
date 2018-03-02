@@ -14,9 +14,9 @@ Let's start a simple tutorial:
 
 # Get Started
 
-* Type following code in editor window.
+* Type sample code
 
-> To open editor window, click the screen and press 'C' key.
+> To open code editor window, click the screen and press 'C' key.
 
 ```javascript
 // 3D donut
