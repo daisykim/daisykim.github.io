@@ -44,7 +44,7 @@ fd(4) rt(90)
 
 # What's Next?
 
-You just finished making your first application!
+Congrats! You just finished making your first application.
 
 More information can be found in the following documents:
 
