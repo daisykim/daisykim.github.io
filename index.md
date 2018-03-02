@@ -3,7 +3,7 @@ layout: default
 title: COC wiki
 ---
 
-# [](#header-1)Get Started
+# [](#header-2)Get Started
 
 ```javascript
 // Squre
