@@ -19,7 +19,7 @@ Let's start a simple tutorial:
 
 # Get Started
 
-* Type sample code
+* Launch 'basic' app and type sample code
 
 > To open code editor window, click the screen and press 'C' key.
 
