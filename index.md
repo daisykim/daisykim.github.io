@@ -6,8 +6,9 @@ title: Markdown Style Guide
 # Overview 
 Welcome to the _COC_ wiki. Here we have gathered documents for _COC_ developers. We also offer a wide selection of YouTube video tutorials.
 
-**About _COC_**
-_COC_ is an online coding platform for everyone. You can **play, create, share** your own code. Coding is done using a brand-new language, [_ALC_](p/alc-1.0-white-paper). Espeically, _COC_ is optimized for game programming.
+> **About _COC_** : 
+>
+> _COC_ is an online coding platform for everyone. You can **play, create, share** your own code. Coding is done using a brand-new language, [_ALC_](p/alc-1.0-white-paper). Espeically, _COC_ is optimized for game programming.
 
 Let's start a simple tutorial:
 
