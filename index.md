@@ -17,7 +17,7 @@ We also offer a wide selection of YouTube video tutorials.
 
 Let's start a simple tutorial:
 
-# Get Started
+# Getting Started
 
 * Step 1: Launch coding app and type sample code
 
