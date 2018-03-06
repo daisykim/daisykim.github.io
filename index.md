@@ -13,7 +13,6 @@ We also offer a wide selection of YouTube video tutorials.
 > You can **play, create, share** your own game.
 > Coding is done using a brand-new language, [_ALC_](p/alc-1.0-white-paper).
 > 
-> Especially, _COC_ is optimized for 3D online game programming.
 > Access to COC: [https://www.codeofcubes.com](https://www.codeofcubes.com)
 
 Let's start a simple tutorial:
