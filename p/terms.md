@@ -184,7 +184,7 @@ If we have reason to believe the contents of a private repository are in violati
 
 ## F. Copyright Infringement and DMCA Policy
 
-If you believe that content on our website violates your copyright, please contact us in accordance with our Digital Millennium Copyright Act Policy. If you are a copyright owner and you believe that content on CODE OF CUBES violates your rights, please contact us via our convenient DMCA form or by emailing copyright@CODE OF CUBES.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
+If you believe that content on our website violates your copyright, please contact us in accordance with our Digital Millennium Copyright Act Policy. If you are a copyright owner and you believe that content on CODE OF CUBES violates your rights, please contact us via our convenient DMCA form or by emailing support@codeofcubes.com. There may be legal consequences for sending a false or frivolous takedown notice. Before sending a takedown request, you must consider legal uses such as fair use and licensed uses.
 
 We will terminate the accounts of repeat infringers of this policy.
 
