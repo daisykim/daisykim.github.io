@@ -36,7 +36,7 @@ Thank you for using CODE OF CUBES! We're happy you're here. Please read this Ter
 Effective date: March 07, 2018
 
 ## A. Definitions
-**Short version**: We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information.
+**Short version**: _We use these basic terms throughout the agreement, and they have specific meanings. You should know what we mean when we use each of the terms. There's not going to be a test on it, but it's still useful information._
 
 1. The “Agreement” refers, collectively, to all the terms, conditions, notices contained or referenced in this document (the “Terms of Service” or the "Terms") and all other operating rules, policies (including the CODE OF CUBES Privacy Statement, available at CODE OF CUBES.com/site/privacy) and procedures that we may publish from time to time on the Website. Most of our site policies are available at help.CODE OF CUBES.com/categories/site-policy.
 2. The “Service” refers to the applications, software, products, and services provided by CODE OF CUBES.
@@ -77,7 +77,7 @@ If you are a government User or otherwise accessing or using any CODE OF CUBES S
 If you have signed up for a Business plan, the Business Plan Addendum applies to you, and you agree to its provisions.
 
 ## C. Acceptable Use
-**Short version**: CODE OF CUBES hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other.
+**Short version**: _CODE OF CUBES hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other._
 
 1. Compliance with Laws and Regulations
 Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
@@ -126,7 +126,7 @@ If we determine your bandwidth usage to be significantly excessive in relation t
 You agree not to engage in activity that significantly harms our Users. We will resolve disputes in favor of protecting our Users as a whole.
 
 ## D. User-Generated Content
-**Short version**: You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close accounts if we need to.
+**Short version**: _You own content you create, but you allow us certain rights to it, so that we can display and share the content you post. You still have control over your content, and responsibility for it, and the rights you grant us are limited to those we need to provide the service. We have the right to remove content or close accounts if we need to._
 
 1. Responsibility for User-Generated Content
 You may create or upload User-Generated Content while using the Service. You are solely responsible for the content of, and for any harm resulting from, any User-Generated Content that you post, upload, link to or otherwise make available via the Service, regardless of the form of that Content. We are not responsible for any public display or misuse of your User-Generated Content.
@@ -160,7 +160,7 @@ You retain all moral rights to Your Content that you upload, publish, or submit 
 To the extent this agreement is not enforceable by applicable law, you grant CODE OF CUBES the rights we need to use Your Content without attribution and to make reasonable adaptations of Your Content as necessary to render the Website and provide the Service.
 
 ## E. Private Repositories
-**Short version**: You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons.
+**Short version**: _You may have access to private repositories. We treat the content of private repositories as confidential, and we only access it for support reasons, with your consent, or if required to for security reasons._
 
 1. Control of Private Repositories.
 Some accounts, such as paid accounts, may have private repositories, which allow the User to control access to Content.
@@ -189,7 +189,7 @@ If you believe that content on our website violates your copyright, please conta
 We will terminate the accounts of repeat infringers of this policy.
 
 ## G. Intellectual Property Notice
-**Short version**: We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed.
+**Short version**: _We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed._
 
 1. CODE OF CUBES's Rights to Content
 CODE OF CUBES and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © CODE OF CUBES, Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from CODE OF CUBES.
@@ -201,7 +201,7 @@ If you’d like to use CODE OF CUBES’s trademarks, you must follow all of our 
 This Agreement is licensed under this Creative Commons Zero license. For details, see our site-policy repository.
 
 ## H. API Terms
-**Short version**: You agree to these Terms of Service, plus this Section H, when using any of CODE OF CUBES's APIs (Application Provider Interface), including use of the API through a third party product that accesses CODE OF CUBES.
+**Short version**: _You agree to these Terms of Service, plus this Section H, when using any of CODE OF CUBES's APIs (Application Provider Interface), including use of the API through a third party product that accesses CODE OF CUBES._
 
 ### No Abuse or Overuse of the API
 Abuse or excessively frequent requests to CODE OF CUBES via the API may result in the temporary or permanent suspension of your account's access to the API. CODE OF CUBES, in our sole discretion, will determine abuse or excessive usage of the API. We will make a reasonable attempt to warn you via email prior to suspension.
@@ -215,14 +215,14 @@ All use of the CODE OF CUBES API is subject to these Terms of Service and the CO
 CODE OF CUBES may offer subscription-based access to our API for those Users who require high-throughput access or access that would result in resale of CODE OF CUBES's Service.
 
 ## I. Additional Terms for CODE OF CUBES Pages
-**Short version**: The CODE OF CUBES Pages hosting service is subject to certain rules, in addition to the rest of the Terms.
+**Short version**: _The CODE OF CUBES Pages hosting service is subject to certain rules, in addition to the rest of the Terms._
 
 Each CODE OF CUBES account comes with access to the CODE OF CUBES Pages static hosting service. This hosting service is intended to host static web pages for CODE OF CUBES users. CODE OF CUBES Pages are subject to some specific bandwidth and usage limits, and may not be appropriate for some high-bandwidth uses. Please see our CODE OF CUBES Pages guidelines for more information.
 
 CODE OF CUBES reserves the right at all times to reclaim any CODE OF CUBES subdomain without liability.
 
 ## J. Additional Terms for CODE OF CUBES Marketplace
-**Short version**: CODE OF CUBES Marketplace is subject to certain rules, in addition to the rest of this Agreement.
+**Short version**: _CODE OF CUBES Marketplace is subject to certain rules, in addition to the rest of this Agreement._
 
 CODE OF CUBES Marketplace is a platform for developers of all kinds. Through CODE OF CUBES Marketplace, you can list Developer Products (as defined in the CODE OF CUBES Marketplace Terms of Service) or buy others' Developer Products. Prior to submitting a project to be listed, you must agree to the CODE OF CUBES Marketplace Developer Agreement.
 
@@ -231,7 +231,7 @@ If you buy Developer Products, the CODE OF CUBES Marketplace Terms of Service co
 Any violation of the CODE OF CUBES Marketplace Terms of Service is also a violation of this Agreement.
 
 ## K. Advertising on CODE OF CUBES
-**Short version**: We do not generally prohibit use of CODE OF CUBES for advertising. However, we expect our users to follow certain limitations, so CODE OF CUBES does not become a spam haven. No one wants that.
+**Short version**: _We do not generally prohibit use of CODE OF CUBES for advertising. However, we expect our users to follow certain limitations, so CODE OF CUBES does not become a spam haven. No one wants that._
 
 1. CODE OF CUBES Pages
 We offer Pages sites primarily as a showcase for personal and organizational projects. Some monetization efforts are permitted on Pages, such as donation buttons and crowdfunding links.
@@ -245,7 +245,7 @@ You may not advertise in other Users' repositories, such as by posting monetized
 Advertising Content, like all Content, must not violate the law or these Terms of Use, for example through excessive bulk activity such as spamming. We reserve the right to remove any advertisements that, in our sole discretion, violate any CODE OF CUBES terms or policies.
 
 ## L. Payment
-**Short version**: You are responsible for any fees associated with your use of CODE OF CUBES. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change.
+**Short version**: _You are responsible for any fees associated with your use of CODE OF CUBES. We are responsible for communicating those fees to you clearly and accurately, and letting you know well in advance if those prices change._
 
 1. Pricing
 Our pricing and payment terms are available at each pages for pricing. If you agree to a subscription price, that will remain your price for the duration of the payment term; however, prices are subject to change at the end of a payment term.
@@ -269,7 +269,7 @@ By agreeing to these Terms, you are giving us permission to charge your on-file 
 You are responsible for all fees, including taxes, associated with your use of the Service. By using the Service, you agree to pay CODE OF CUBES any charge incurred in connection with your use of the Service. If you dispute the matter, contact CODE OF CUBES Support. You are responsible for providing us with a valid means of payment for paid accounts. Free accounts are not required to provide payment information.
 
 ## M. Cancellation and Termination
-**Short version**: You may close your account at any time. If you do, we'll treat your information responsibly.
+**Short version**: _You may close your account at any time. If you do, we'll treat your information responsibly._
 
 1. Account Cancellation
 It is your responsibility to properly cancel your account with CODE OF CUBES. You can cancel your account at any time by going into your Settings in the global navigation bar at the top of the screen. The Account screen provides a simple, no questions asked cancellation link. We are not able to cancel accounts in response to an email or phone request.
@@ -288,7 +288,7 @@ CODE OF CUBES has the right to suspend or terminate your access to all or any pa
 All provisions of this Agreement which by their nature should survive termination will survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 
 ## N. Communications with CODE OF CUBES
-**Short version**: We use email and other electronic means to stay in touch with our users.
+**Short version**: _We use email and other electronic means to stay in touch with our users._
 
 1. Electronic Communication Required
 For contractual purposes, you (1) consent to receive communications from us in an electronic form via the email address you have submitted or via the Service; and (2) agree that all Terms of Service, agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that those communications would satisfy if they were on paper. This section does not affect your non-waivable rights.
@@ -300,14 +300,14 @@ Communications made through email or CODE OF CUBES Support's messaging system wi
 CODE OF CUBES only offers support via email, in-Service communications, and electronic messages. We do not offer telephone support.
 
 ## O. Disclaimer of Warranties
-**Short version**: We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect.
+**Short version**: _We provide our service as is, and we make no promises or guarantees about this service. Please read this section carefully; you should understand what to expect._
 
 CODE OF CUBES provides the Website and the Service “as is” and “as available,” without warranty of any kind. Without limiting this, we expressly disclaim all warranties, whether express, implied or statutory, regarding the Website and the Service including without limitation any warranty of merchantability, fitness for a particular purpose, title, security, accuracy and non-infringement.
 
 CODE OF CUBES does not warrant that the Service will meet your requirements; that the Service will be uninterrupted, timely, secure, or error-free; that the information provided through the Service is accurate, reliable or correct; that any defects or errors will be corrected; that the Service will be available at any particular time or location; or that the Service is free of viruses or other harmful components. You assume full responsibility and risk of loss resulting from your downloading and/or use of files, information, content or other material obtained from the Service.
 
 ## P. Limitation of Liability
-**Short version**: We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.
+**Short version**: _We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you._
 
 You understand and agree that we will not be liable to you or any third party for any loss of profits, use, goodwill, or data, or for any incidental, indirect, special, consequential or exemplary damages, however arising, that result from
 
@@ -323,14 +323,14 @@ You understand and agree that we will not be liable to you or any third party fo
 Our liability is limited whether or not we have been informed of the possibility of such damages, and even if a remedy set forth in this Agreement is found to have failed of its essential purpose. We will have no liability for any failure or delay due to matters beyond our reasonable control.
 
 ## Q. Release and Indemnification
-**Short version**: You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved.
+**Short version**: _You are responsible for your use of the service. If you harm someone else or get into a dispute with someone else, we will not be involved._
 
 If you have a dispute with one or more Users, you agree to release CODE OF CUBES from any and all claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
 You agree to indemnify us, defend us, and hold us harmless from and against any and all claims, liabilities, and expenses, including attorneys’ fees, arising out of your use of the Website and the Service, including but not limited to your violation of this Agreement, provided that CODE OF CUBES (1) promptly gives you written notice of the claim, demand, suit or proceeding; (2) gives you sole control of the defense and settlement of the claim, demand, suit or proceeding (provided that you may not settle any claim, demand, suit or proceeding unless the settlement unconditionally releases CODE OF CUBES of all liability); and (3) provides to you all reasonable assistance, at your expense.
 
 ## R. Changes to These Terms
-**Short version**: We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them.
+**Short version**: _We want our users to be informed of important changes to our terms, but some changes aren't that important — we don't want to bother you every time we fix a typo. So while we may modify this agreement at any time, we will notify users of any changes that affect your rights and give you time to adjust to them._
 
 We reserve the right, at our sole discretion, to amend these Terms of Service at any time and will update these Terms of Service in the event of any such amendments. We will notify our Users of material changes to this Agreement, such as price changes, at least 30 days prior to the change taking effect by posting a notice on our Website. For non-material modifications, your continued use of the Website constitutes agreement to our revisions of these Terms of Service.
 
