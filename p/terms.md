@@ -192,7 +192,7 @@ We will terminate the accounts of repeat infringers of this policy.
 **Short version**: _We own the service and all of our content. In order for you to use our content, we give you certain rights to it, but you may only use our content in the way we have allowed._
 
 1. CODE OF CUBES's Rights to Content
-CODE OF CUBES and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © CODE OF CUBES, Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from CODE OF CUBES.
+CODE OF CUBES and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © CODE OF CUBES, Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, ALC, or visual design elements or concepts without express written permission from CODE OF CUBES.
 
 2. CODE OF CUBES Trademarks and Logos
 If you’d like to use CODE OF CUBES’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: [logos](p/logos).
