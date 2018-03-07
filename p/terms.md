@@ -195,7 +195,7 @@ We will terminate the accounts of repeat infringers of this policy.
 CODE OF CUBES and our licensors, vendors, agents, and/or our content providers retain ownership of all intellectual property rights of any kind related to the Website and Service. We reserve all rights that are not expressly granted to you under this Agreement or by law. The look and feel of the Website and Service is copyright © CODE OF CUBES, Inc. All rights reserved. You may not duplicate, copy, or reuse any portion of the HTML/CSS, Javascript, or visual design elements or concepts without express written permission from CODE OF CUBES.
 
 2. CODE OF CUBES Trademarks and Logos
-If you’d like to use CODE OF CUBES’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: https://CODE OF CUBES.com/logos.
+If you’d like to use CODE OF CUBES’s trademarks, you must follow all of our trademark guidelines, including those on our logos page: [logos](p/logos).
 
 3. License to CODE OF CUBES Policies
 This Agreement is licensed under this Creative Commons Zero license. For details, see our site-policy repository.
