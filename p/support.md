@@ -5,12 +5,9 @@ layout: default
 
 # Supported environment:
 
-- PC: Chrome, Safari, Firefox, Opera, MS Edge
-- Mobile: iOS, Android
+CODE OF CUBES heavily uses modern web technologies such as WebGL, WebSocket, and so on.
 
-<i class="list-inline-item fa fa-safari"></i>
-<i class="list-inline-item fa fa-chrome"></i>
-<i class="list-inline-item fa fa-firefox"></i>
-<i class="list-inline-item fa fa-opera"></i>
-<i class="list-inline-item fa fa-android"></i>
-<i class="list-inline-item fa fa-edge"></i>
+Please refer to following supportd environments:
+
+- Google Chrome 9+, Firefox 4+, Opera 15+, Safari 5.1+, Internet Explorer 11 and Microsoft Edge.
+- You can find which browsers support WebGL at (Can I use WebGL)[https://caniuse.com/#feat=webgl].
