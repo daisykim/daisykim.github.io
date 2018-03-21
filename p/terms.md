@@ -76,6 +76,8 @@ If you are a government User or otherwise accessing or using any CODE OF CUBES S
 
 If you have signed up for a Business plan, the Business Plan Addendum applies to you, and you agree to its provisions.
 
+Please note that, if you login as a guest, your data is not saved on the server. It might be lost.
+
 ## C. Acceptable Use
 **Short version**: _CODE OF CUBES hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other._
 
