@@ -5,7 +5,7 @@ title: Markdown Style Guide
 
 # Overview 
 Welcome to the _COC_ wiki. Here we have gathered documents for _COC_ creators and partners.
-We also offer a wide selection of YouTube video tutorials.
+We also offer a wide selection of video tutorials.
 
 > **About _COC_** : 
 > 
