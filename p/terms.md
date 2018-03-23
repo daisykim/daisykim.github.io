@@ -72,14 +72,15 @@ You are responsible for keeping your account secure while you use our Service. W
 4. Additional Terms
 In some situations, third parties' terms may apply to your use of CODE OF CUBES. For example, you may be a member of an organization on CODE OF CUBES with its own terms or license agreements; you may download an application that integrates with CODE OF CUBES; or you may use CODE OF CUBES to authenticate to another service. Please be aware that while these Terms are our full agreement with you, other parties' terms govern their relationships with you.
 
+5. Monetization
+Monetization policy and its algorithm is not opened to user for preventing abusing. Minimum withdrawable amount is $100.
+
 If you are a government User or otherwise accessing or using any CODE OF CUBES Service in a government capacity, this Government Amendment to CODE OF CUBES Terms of Service applies to you, and you agree to its provisions.
 
 If you have signed up for a Business plan, the Business Plan Addendum applies to you, and you agree to its provisions.
 
 If you not login or login as a guest, your data is not saved on the server.
 
-5. Monetization
-Monetization policy and its algorithm is not opened to user for preventing abusing. Minimum withdrawable amount is $100.
 
 ## C. Acceptable Use
 **Short version**: _CODE OF CUBES hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other._
