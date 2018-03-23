@@ -76,7 +76,7 @@ If you are a government User or otherwise accessing or using any CODE OF CUBES S
 
 If you have signed up for a Business plan, the Business Plan Addendum applies to you, and you agree to its provisions.
 
-If you login as a guest, your data is not saved on the server.
+If you not login or login as a guest, your data is not saved on the server.
 
 Monetization policy and its algorithm is not opened to user for preventing abusing.
 
