@@ -78,7 +78,8 @@ If you have signed up for a Business plan, the Business Plan Addendum applies to
 
 If you not login or login as a guest, your data is not saved on the server.
 
-Monetization policy and its algorithm is not opened to user for preventing abusing.
+5. Monetization
+Monetization policy and its algorithm is not opened to user for preventing abusing. Minimum withdrawable amount is $100.
 
 ## C. Acceptable Use
 **Short version**: _CODE OF CUBES hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other._
