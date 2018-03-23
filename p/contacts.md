@@ -7,6 +7,6 @@ layout: default
 
 - Check the each code or app's README or get in touch with developers.
 
-*Any help or suggestions?*
+*Any other help or suggestions?*
 
 - support@codeofcubes.com
