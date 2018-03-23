@@ -76,7 +76,9 @@ If you are a government User or otherwise accessing or using any CODE OF CUBES S
 
 If you have signed up for a Business plan, the Business Plan Addendum applies to you, and you agree to its provisions.
 
-Please note that, if you login as a guest, your data is not saved on the server. It might be lost.
+If you login as a guest, your data is not saved on the server.
+
+Monetization policy and its algorithm is not opened to user for preventing abusing.
 
 ## C. Acceptable Use
 **Short version**: _CODE OF CUBES hosts a wide variety of collaborative projects from all over the world, and that collaboration only works when our users are able to work together in good faith. While using the service, you must follow this Acceptable Use Policy, which includes some restrictions on content you can post, conduct on the service, and other limitations. In short, be excellent to each other._
@@ -85,7 +87,14 @@ Please note that, if you login as a guest, your data is not saved on the server.
 Your use of the Website and Service must not violate any applicable laws, including copyright or trademark laws, export control laws, or other laws in your jurisdiction. You are responsible for making sure that your use of the Service is in compliance with laws and any applicable regulations.
 
 2. Content Restrictions
-You agree that you will not under any circumstances upload, post, host, or transmit any content that:
+You agree that you will not under any circumstances upload, post, host, or transm
+
+
+
+
+
+
+any content that:
 
 - is unlawful or promotes unlawful activities;
 - is or contains sexually obscene content;
