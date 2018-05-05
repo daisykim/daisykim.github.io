@@ -11,7 +11,7 @@ Current _ALC_ edition is 1.0.
 
 ## [](#header-2)Syntax Summary
 
-| Logo | ALC | Description |
+| Berkeley Logo | ALC | Description |
 |:---|:---|:---|
 | to/end (function)    | function() { }       | function definition ex) function foo() { fd(5); }|
 | {num}[]              | repeat(num, (repcount)=> { }) | loop statement. repcount represents the iteration count from 1 to num|
@@ -102,3 +102,9 @@ Followings are built-in libraries:
 
 
 For further details, please refer to wiki sidemenu.
+
+## References
+
+* https://www.ecma-international.org/ecma-262/6.0/
+* http://en.wikipedia.org/wiki/Logo_(programming_language)
+* https://people.eecs.berkeley.edu/~bh/logo.html
