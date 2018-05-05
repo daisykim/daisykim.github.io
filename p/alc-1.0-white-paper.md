@@ -14,7 +14,7 @@ Current _ALC_ edition is 1.0.
 | Logo | ALC | Description |
 |:---|:---|:---|
 | to/end (function)    | function() { }       | function definition ex) function foo() { fd(5); }|
-| {num}[]              | repeat(num, (repcount)=> { }) | iteration|
+| {num}[]              | repeat(num, (repcount)=> { }) | iteration. repcount represents the iteration count from 1 to num|
 | make “x sum :y 3     | var x = y + 3;       | variable definition and addtion|
 | if                   | if                   | conditional statement|
 | fd {num} or forward  | fd(num) or forward   | draw forward if pen is down|
