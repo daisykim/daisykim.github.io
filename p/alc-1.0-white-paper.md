@@ -5,7 +5,7 @@ layout: default
 
 # [](#header-1)ALC White Paper
 
-_ALC_ is a programming language which is a superset of ECMAScript in [ECMA-262, 6th edition, aka ES2015](https://www.ecma-international.org/ecma-262/6.0/).
+_ALC_ is a programming language which is a superset of ECMAScript in [ECMA-262, 6th edition (aka ES2015)](https://www.ecma-international.org/ecma-262/6.0/).
 This supports following additional syntax that is similar to [Logo programming language](http://en.wikipedia.org/wiki/Logo_(programming_language)).
 Current _ALC_ edition is 1.0.
 
