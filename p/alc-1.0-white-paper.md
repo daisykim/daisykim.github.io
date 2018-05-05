@@ -55,14 +55,14 @@ Current _ALC_ edition is 1.0.
 // Pyramid
 function sq(len) {
   for (var i = 0; i < 4; ++i) {
-    fd(len-1); rt(90);
+    fd(len-1), rt(90);
   }
 }
 
 sp(21); rot(0);
 
 for (var i = 18; i >= 0; i-=2) {
- pd(), sq(i), pu();
+  pd(), sq(i), pu();
 
   up(1), fd(1), rt(90), fd(1), lt(90), pd();
 }
@@ -72,8 +72,7 @@ for (var i = 18; i >= 0; i-=2) {
 // Simple circle
 var circle = function() {
     for (var i = 0; i < 90; ++i) {
-          fd(1);
-          rt(4);
+          fd(1); rt(4);
     }
 }
 
