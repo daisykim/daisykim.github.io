@@ -44,6 +44,7 @@ Current _ALC_ edition is 1.0.
 | random start, end    | random(start, end)   | return a random number between 0 (inclusive) and 1 (exclusive)|
 |                      | floor                | rounds a number DOWNWARDS to the nearest integer|
 |                      | ceil                 | rounds a number UPWARDS to the nearest integer|
+|                      | abs                  | returns the absolute value of a number|
 | <, >, <=, >=, ==     | <, >, <=, >=, ==     |   less than, greater than, less than equal, greater than equal, equal|
 | BITAND, BITOR, BITNOT, ASHIFT, LSHIFT|  &, \|, !, », « |   |
 | AND, OR, NOT   | &&, \|\|, !=         |   |
