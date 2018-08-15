@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Markdown Style Guide
+title: COC Wiki
 ---
 
 # Overview 
