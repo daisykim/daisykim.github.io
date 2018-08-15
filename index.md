@@ -10,7 +10,7 @@ We also offer a wide selection of video tutorials.
 > **About _COC_** : 
 > 
 > CODE OF CUBES (COC) is an online game sharing platform for everyone.
-> You can **play, create, share** online sandbox games on the web.
+> You can **play, create, share** 3D online games on the web.
 > Coding your own game is done using a brand-new language, [_ALC_](p/alc-1.0-white-paper).
 > 
 > Access to COC: [https://www.codeofcubes.com](https://www.codeofcubes.com)
