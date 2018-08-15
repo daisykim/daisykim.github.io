@@ -1,5 +1,5 @@
 ---
-title: COC Plugin Guide
+title: COC Module Guide
 layout: default
 ---
 

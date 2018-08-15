@@ -47,8 +47,8 @@ fd(4); rt(90)
 Congrats! You just finished making your first application.
 More information can be found in the following documents:
 
-* [COC Plugin](p/coc-plugin) : baseline for executing and sharing your code
-* [COC App](p/coc-app) : a collection of plugins
+* [Module](p/coc-module) : a basic unit for executing and sharing your code
+* [App](p/coc-app) : a collection of the modules
 * [ALC](p/alc-1.0-white-paper) : a programming language for COC
 * [Hackathon](p/hackathon) : a 48 hours open coding festival (held every quarter)
 
