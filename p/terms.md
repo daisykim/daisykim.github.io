@@ -47,7 +47,7 @@ Effective date: March 07, 2018
 
 
 ## B. Account Terms
-**Short version**: A human must create your account; you must be 13 or over; you must provide a valid email address; and you may not have more than one free account. You alone are responsible for your account and anything that happens while you are signed in to or using your account. You are responsible for keeping your account secure.
+**Short version**: A human must create your account; you must be 13 or over; you must provide a valid email address; and you may not have more than one free account. You alone are responsible for your account and anything that happens while you are signed in to or using your account. You are responsible for keeping your account secure. The data of the guest user is not guaranteed to be preserved on the server.
 
 1. Required Information
 You must provide a valid email address in order to complete the signup process. Any other information requested, such as your real name, is optional, unless you are accepting these terms on behalf of a legal entity (in which case we need more information about the legal entity) or if you opt for a paid account, in which case additional information will be necessary for billing purposes.
@@ -79,7 +79,7 @@ If you are a government User or otherwise accessing or using any CODE OF CUBES S
 
 If you have signed up for a Business plan, the Business Plan Addendum applies to you, and you agree to its provisions.
 
-If you not login or login as a guest, your data is not saved on the server.
+If you not login or login as a guest, your data is not preserved on the server.
 
 
 ## C. Acceptable Use
